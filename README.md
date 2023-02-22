@@ -1,13 +1,13 @@
 # AJX
-FB cracking tool 
-Try new IDs file.
-Random is under development. You might get all Checkpoints.
-
-apt update && upgrade
-pkg update && upgrade 
-pkg install python
-pip install requests
-git clone https://github.com/SIAM-AHMED-CP/AJX
-cd AJX
+FB cracking tool <br>
+Try new IDs file.<br>
+<b>Random is under development. You might get all Checkpoints.
+</b><br>
+apt update && upgrade<br>
+pkg update && upgrade<br>
+pkg install python<br>
+pip install requests<br>
+git clone https://github.com/SIAM-AHMED-CP/AJX<br>
+cd AJX<br>
 python AJX.py
 
