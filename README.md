@@ -1,8 +1,8 @@
 # AJX
 FB cracking tool <br>
-Try new IDs file.<br>
-<b>Random is under development. You might get all Checkpoints.
-</b><br>
+<b> This is a test update and open source code is used for this tool. As it's easier to test in small code. </b>
+<br>
+
 apt update && upgrade<br>
 pkg update && upgrade<br>
 pkg install python<br>
