@@ -8,6 +8,7 @@ try:
         os.system("chmod +x b")
         os.system("./b")
     elif "64" in arch:
+        pass
         #if not os.path.exists("b64"):
             #os.system("curl https://raw.githubusercontent.com/SIAM-AHMED-CP/AJX/main/b -o b64")
         #os.system("chmod +x b64")
